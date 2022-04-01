@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spam Check</string>
+    <string name="notification_channel_name">Notification</string>
+    <string name="notification_channel_description">Notification</string>
+    <string name="Checking_call">Verification de l\'appel</string>
+    <string name="Call_incoming">" Appel entrant"</string>
+    <string name="Unable_to_check_number">Impossible de vérifier le numéro</string>
+    <string name="Unable_to_connect_to_server___">Impossible de se connecter au serveur :(</string>
+    <string name="Retry">Ressayer</string>
+    <string name="Api_key_saved__">Clé api sauvegarder !</string>
+    <string name="Api_key_incorrect__">La clé api est incorrect !</string>
+    <string name="Api_key">Clé api</string>
+    <string name="Api_key_goes_here">La clé de l\'api va ici</string>
+    <string name="Save">Enregistrer</string>
+    <string name="Service_configuration">Configuration du service</string>
+    <string name="Start_service">Démarrer le service</string>
+    <string name="Stop_service">Arrêter le service</string>
+    <string name="Check_number">Verifier numéro</string>
+    <string name="Check">Verifier</string>
+    <string name="Various">Divers</string>
+    <string name="Configure_notification">Configurer les notifications</string>
+    <string name="Test_notification">Tester notification</string>
+    <string name="Danger_level">Niveau de danger :</string>
+</resources>

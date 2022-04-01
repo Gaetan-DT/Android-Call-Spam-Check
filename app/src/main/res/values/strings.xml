@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Spam Check</string>
+    <string name="notification_channel_name">Notification</string>
+    <string name="notification_channel_description">Notification</string>
+    <string name="Checking_call">Checking call</string>
+    <string name="Danger_level">Danger level :</string>
+    <string name="Call_incoming">Call incoming</string>
+    <string name="Unable_to_check_number">Unable to check number</string>
+    <string name="Unable_to_connect_to_server___">Unable to connect to server :(</string>
+    <string name="Retry">Retry</string>
+    <string name="Api_key_saved__">Api key saved !</string>
+    <string name="Api_key_incorrect__">Api key is incorrect !</string>
+    <string name="Api_key">Api key</string>
+    <string name="Api_key_goes_here">Api key goes here</string>
+    <string name="Save">Save</string>
+    <string name="Service_configuration">Service configuration</string>
+    <string name="Start_service">Start service</string>
+    <string name="Stop_service">Stop service</string>
+    <string name="Check_number">Check number</string>
+    <string name="Check">Check</string>
+    <string name="Various">Various</string>
+    <string name="Configure_notification">Configure notifications</string>
+    <string name="Test_notification">Test notification</string>
+</resources>
