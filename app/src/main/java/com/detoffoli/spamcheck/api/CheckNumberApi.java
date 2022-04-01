@@ -21,7 +21,7 @@ public class CheckNumberApi {
     private static final String TAG = CheckNumberApi.class.getSimpleName();
 
     private static final String PATH_V1_GET_PERCENTAGE = "/v1/percentage/:number";
-    private static final String PATH_V1_CHECK_TOKEN = "v1/check-token/";
+    private static final String PATH_V1_CHECK_TOKEN = "/v1/check-token";
 
     @WorkerThread
     public static String getPercentageNumber(@NonNull Context context,

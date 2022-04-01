@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void checkApiKey() {
-        this.listenOnTimeWorker(TestApiKeyWorker.class, workInfo -> {
+        this.listenWorker(TestApiKeyWorker.startWorker(this.mBinding.editApiKey.getText().toString()), workInfo -> {
             String message;
             switch (workInfo.getState()) {
                 case SUCCEEDED:
